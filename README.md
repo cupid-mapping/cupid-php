@@ -92,7 +92,7 @@ This function allows you to send a list of properties and maps it against your a
 **Limit**
 You can send up to 1000 properties per request.
 ```php
-$cupid = new App\Cupid('2a761826-75fd-484d-6508-37cc6abfc3e7');
+$cupid = new App\Cupid(*YOUR  API  KEY*);
 $array = [
 	[
 		"address" => "123 main street",
