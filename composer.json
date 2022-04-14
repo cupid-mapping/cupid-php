@@ -1,6 +1,8 @@
 {
     "name": "php-cupid/cupid",
     "description": "PHP SDK for cupid mapping",
+    "homepage": "https://nuitee2.stoplight.io",
+    "license": "MIT",
     "keywords": [
         "php",
         "http",
