@@ -26,7 +26,7 @@
 ## Description
 Performing mapping through the Cupid API is very straightforward. You'll first upload your properties inventory to be used as reference and then send a list of properties to be mapped to the API and get the results directly in the response.
 ## Installation
-Requires PHP version >=5.3.
+Requires PHP version >=5.3.<br>
 The recommended way to install Guzzle is through  [Composer](https://getcomposer.org/).
 ```sh
 composer require php-cupid/cupid
