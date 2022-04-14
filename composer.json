@@ -18,7 +18,6 @@
     ],
     "require": {
         "php": ">=5.3",
-        "another-vendor/package": "1.*",
         "guzzlehttp/guzzle": "^7.4"
     },
     "autoload": {
