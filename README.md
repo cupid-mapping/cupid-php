@@ -109,5 +109,5 @@ print_r($mapHotels);
 ```
 
 ## Contact
-- [Cupid](https://github.com/cupid-mapping/cupid-php)
+- [Cupid](https://cupid.travel)
 - [support@cupid.travel](mailto:support@cupid.travel)
